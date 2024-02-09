@@ -12,3 +12,6 @@ const products = {
     '4' : 20,
 }
 console.log(products);
+
+
+
